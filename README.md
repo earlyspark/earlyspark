@@ -1,4 +1,11 @@
-## Hi there 👋
+# hi, i'm earlyspark 👋
+
+i'm a washed up front end developer turned TPM with a background in ecommerce and Safety ML. 
+i've been in big tech for 10 years and here to learn and keep building. 
+currently on career break while i focus on my health and get back into jewelrysmithing.
+
+i want AI to cure cancer, end mass shootings, and do chores. 
+i couldn't care less about shareholder value (but ask me about this later when i need a real job 🙃). 
 
 <!--
 **earlyspark/earlyspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
